@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isha Wandale</h1>
-<h3 align="center">Aspiring Data Analyst | Python Learner</h3>
+<h3 align="center">Aspiring Data Analyst </h3>
 
 - 🌱 I’m currently learning Python, SQL, Excel and Data Analytics.
 - 💻 Interested in Data Analyst opportunities.
