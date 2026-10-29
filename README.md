@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning Python, SQL, Excel and Data Analytics.
 - 💻 Interested in Data Analyst opportunities.
-
+- 📚 Practicing C, C++ programming and problem-solving.
+- 📊 Exploring data analysis and visualization.
+- 🚀 Passionate about learning new technologies and building my skills.
 <!--
 **isha-wandale/isha-wandale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
