@@ -1,5 +1,8 @@
-Hi 👋, I'm Isha Wandale
+<h1 align="center">Hi 👋, I'm Isha Wandale</h1>
+<h3 align="center">Aspiring Data Analyst | Python Learner</h3>
 
+- 🌱 I’m currently learning Python, SQL, Excel and Data Analytics.
+- 💻 Interested in Data Analyst opportunities.
 
 <!--
 **isha-wandale/isha-wandale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
